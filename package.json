@@ -7,7 +7,7 @@
     "async": "^2.1.4",
     "bluebird": "^3.4.7",
     "fs-extra": "^2.0.0",
-    "glob": "^7.1.1",
+    "glob": "^9.0.0",
     "lodash": "^4.17.4",
     "md5-dir": "^0.1.0",
     "request": "^2.78.0",
@@ -15,7 +15,7 @@
     "shelljs": "^0.7.5",
     "single-line-log": "^1.1.2",
     "sync-request": "^4.0.1",
-    "ttf2woff2": "^2.0.3",
+    "ttf2woff2": "^4.0.4",
     "snyk": "^1.26.1"
   },
   "scripts": {
