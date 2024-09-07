@@ -4,7 +4,7 @@
     "lerna": "2.0.0-beta.37"
   },
   "dependencies": {
-    "async": "^2.1.4",
+    "async": "^3.0.0",
     "bluebird": "^3.4.7",
     "fs-extra": "^2.0.0",
     "glob": "^7.1.1",
@@ -14,8 +14,8 @@
     "request-promise": "^4.1.1",
     "shelljs": "^0.7.5",
     "single-line-log": "^1.1.2",
-    "sync-request": "^4.0.1",
-    "ttf2woff2": "^2.0.3",
+    "sync-request": "^5.0.0",
+    "ttf2woff2": "^4.0.4",
     "snyk": "^1.26.1"
   },
   "scripts": {
